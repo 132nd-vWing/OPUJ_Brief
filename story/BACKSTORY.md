@@ -10,21 +10,21 @@ While various State actors - led by the United States and Russia in particular -
 
 On a military level, there are reports of increased milliary activity on the russian side of the border and in South Ossetia, as well as troop movements trough Russia in the direction of the Caucasus region. There are serious concerns that Russia will in fact invade under the guise of liberating its people, while in reality is looking to greatly improve its position in the region as well as control the oil pipelines going trough the northern part of Georgia. Analysts are speculating that this could be the second step in a plan to control the oil coming in over land to Europe, as this is the same pipeline they now control following the Ukrainian campaign, and controlling its passage trough Georgia would prevent any re-routing of the oil across the Black Sea or trough Turkey.
 
-In view of this, western leaders have joined together to form a multinational taskforce with the goal immediate goal to balance the military power in the region, support the secure the safety of international observers and deter any further escalation of the conflict. 
+In view of this, western leaders have joined together to form a multinational taskforce with the immediate goal to balance the military power in the region, support the secure the safety of international observers and deter any further escalation of the conflict. 
 
 ### COALITION TASK FORCE (NAME OF TASKFORCE)
 
-(NAME OF TASKFORCE) is a multinational taskforce with significant capabilities both on land, in the air and at sea. The intent is to bring a large and capable force into the region to deter, stabilize, but also to fight should the need be. Western military and political leaders have identified the need to show willingness to meet russia's newer aggressive stance and will to invade neighboring country in a different matter than what was shown during the Ukrainian campaign, and is also eager to push Russia out of the contested regions as well as the near-border areas - reducing political influence and eliminating any military presence.
+(NAME OF TASKFORCE) is a multinational taskforce with significant capabilities both on land, in the air and at sea. The intent is to bring a large and capable force into the region to deter, stabilize, but also to fight should the need be. Western military and political leaders have identified the need to show willingness to meet russia's newer aggressive stance and will to invade neighboring country in a different matter than what was shown during the Ukrainian campaign. There is also an eagerness to push Russia out of the contested regions as well as the near-border areas - reducing political influence and eliminating any military presence.
 
 #### Current Directives:
 1. Establish a presence in order to deter escalation by any party or faction
 2. Support international observers currently in the region
 
 #### Potential Directives - Escalation:
-1. Attrit and degrade Russian military assets and will to fight in the region
-2. Attrit and degrade separatists assets and will to fight in the region
+1. Attrit and degrade Russian military assets and will to fight in the Caucasus region
+2. Attrit and degrade separatists assets and will to fight in the Caucasus region
 3. Restore borders
-4. Create buffer zones and establish a presence of international observers in the region
+4. Create buffer zones and establish a presence of international observers in the Caucasus region
 
 
 
@@ -38,7 +38,7 @@ In view of this, western leaders have joined together to form a multinational ta
 
 The status of Abkhazia is a central issue in the region and despite the 1994 ceasefire agreement and years of negotiations, the dispute remain unresolved. However, following the Russian Prime Minister openly giving his support to its independence in the UN Council, Abhkazia announced its independence on May the 14th, 2020 - exactly 26 years since the signing of the 1994 Moscow Agreement. This in turn significantly sours relations between Russia and countries supporting Georgia's claim to the region, as well as turning the region into a flashpoint for armed conflict.
 
-Unfortunately there is no shortage of reasons to fuel the conflict, as attempts to tilt the political balance in favor of the various internal demographics leads to new religious tensions in a region already fraught with ethnical and historical conflict. In particular, the ruling Abkhaz's move to absorb significant amounts of Syrian (Sunni) refugees of mainly Abkhaz ancestry.
+Unfortunately there is no shortage of reasons to fuel the conflict, as attempts to tilt the political balance in favor of the various internal demographics leads to new religious tensions in a region already fraught with ethnical and historical conflict. In particular, the ruling Abkhaz's move to absorb significant amounts of Syrian (Sunni) refugees of mainly Abkhaz ancestry is believed to increase the religious aspect of the conflict.
   
 ### [SOUTH OSSETIA](https://en.wikipedia.org/wiki/South_Ossetia)
 - Capital: Tskhinvali
